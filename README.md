@@ -1,3 +1,5 @@
+Уважаемые проверяющие! есть отдельный файл с пояснительной запиской!!!
+
 # QuizLive — Платформа для проведения квизов в реальном времени
 
 MVP веб-приложения для создания и проведения интерактивных квизов с поддержкой WebSocket.
@@ -6,8 +8,8 @@ MVP веб-приложения для создания и проведения 
 
 | Ресурс | Ссылка |
 |--------|--------|
-| Макеты (Figma) | [Добавьте ссылку на Figma](https://figma.com) |
-| Прототип UI (Miro) | [Добавьте ссылку на Miro](https://miro.com) |
+| Макеты (Figma) | https://www.figma.com/design/mRSV0eZ5P58WDFRp28iGYI/vk-practice?node-id=0-1&t=K0lRtrM2VKwTQFud-1 |
+| Прототип UI (Miro) | https://miro.com/app/live-embed/uXjVHFlOJdw=/?embedMode=view_only_without_ui&moveToViewport=-4198%2C1397%2C3204%2C1602&embedId=355245723567 |
 | Репозиторий | [github.com/spacimenokak/vk](https://github.com/spacimenokak/vk) |
 | Демо (опционально) | `http://localhost:5173` (локально) |
 
